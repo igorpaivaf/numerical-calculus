@@ -1,19 +1,19 @@
-# Introdução a Computação em Física
+# Introduction to Physical Computation
 
 ---
 
-## Conteúdos
+## Contents
 
-Os códigos nesse repositórios contém os teoremas e conceitos do Cálculo Numérico na linguagem do Python:
+The codes in this repository contains theorems and concepts of Numerical Calculus in Python:
 
-- Diferenciação Numérica
+- Numerical Differentiation
 
-- Integração Numérica
+- Numerical Integration
 
-- Interpolação Polinomial
+- Polynomial Interpolation
 
-- Mínimos Quadrados
+- Ordinary Least Squares
 
-- Resolução de Sistemas Lineares - Métodos Iterativos e Diretos
+- Resolution of Linear Systems - Iterative and Direct Methods
 
-- Raízes de Funções
+- Roots of Functions
